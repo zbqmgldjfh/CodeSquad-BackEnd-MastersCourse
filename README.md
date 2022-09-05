@@ -336,3 +336,4 @@
 | 🎥 [Query Dsl](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84#) |                                                | 22.05.13 ~ 22.05.19         |
 | 📔 프로젝트 성패를 결정짓는 데이터 모델링 이야기              | [서평 링크](https://blogshine.tistory.com/451) | 22.05.17 ~ 22.06.04         |
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzbqmgldjfh%2FCodeSquad-BackEnd-MastersCourse&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
